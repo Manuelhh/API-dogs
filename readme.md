@@ -1,6 +1,6 @@
 # Instructions
 
-To get all dogs:
+To get all dogssssss:
 
 (GET) https://dogsdogs.herokuapp.com/api/dogs/all_dogs
 
