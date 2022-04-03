@@ -2,15 +2,15 @@
 
 To get all dogs:
 
-(GET) https://dogsdogs.herokuapp.com/api/dogs/all_dogs
+(GET) http://localhost:3000/api/dogs/all_dogs
 
 To get one dog by ID:
 
-(GET) https://dogsdogs.herokuapp.com/api/dogs/:id
+(GET) http://localhost:3000/api/dogs/:id
 
 To create a dog:
 
-(POST) https://dogsdogs.herokuapp.com/api/dogs/create_a_dog
+(POST) http://localhost:3000/api/dogs/create_a_dog
 
 req.body params:
 
@@ -22,8 +22,8 @@ req.body params:
 
 To update a dog:
 
-(PUT) https://dogsdogs.herokuapp.com/api/dogs/:id
+(PUT) hhttp://localhost:3000/api/dogs/:id
 
 To delete a dog:
 
-(DELETE) https://dogsdogs.herokuapp.com/api/dogs/:id
+(DELETE) http://localhost:3000/api/dogs/:id
