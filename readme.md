@@ -1,4 +1,8 @@
-# Instructions
+# API Dogs
+
+Api Dogs is a public API.
+
+## Instructions
 
 To get all dogs:
 
