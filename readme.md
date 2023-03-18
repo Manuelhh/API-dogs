@@ -1,6 +1,6 @@
 # API Dogs
 
-Api Dogs is a public API.
+Api Dogs is my first public API. Reference application. (school project)
 
 ## Instructions
 
